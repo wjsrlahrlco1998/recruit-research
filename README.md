@@ -1,4 +1,4 @@
-# 채용공고 리서치
+# 채용공고 리서치 및 준비
 
 
 
@@ -8,7 +8,7 @@
 
 - [채용공고 모음](https://github.com/wjsrlahrlco1998/recruit-research/blob/master/Search.md)
 
-
+- [자기소개서 분석](https://github.com/wjsrlahrlco1998/recruit-research/blob/master/Self_Introduction_Qlist_Classification.md)
 
 ## 1) 자격요건 분석
 
