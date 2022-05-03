@@ -9,6 +9,7 @@
 - [채용공고 모음](https://github.com/wjsrlahrlco1998/recruit-research/blob/master/Search.md)
 
 - [자기소개서 분석](https://github.com/wjsrlahrlco1998/recruit-research/blob/master/Self_Introduction_Qlist_Classification.md)
+- [기업분석](https://github.com/wjsrlahrlco1998/recruit-research/blob/master/Company_Analysis.md)
 
 ## 1) 자격요건 분석
 
